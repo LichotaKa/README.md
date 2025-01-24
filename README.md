@@ -1,3 +1,4 @@
 # README.md
 grupa piątek 11:30, 13.
-repozytorium do zadan
+
+czateria- pierwsza była przekopiowana, czateria(1) jest plikiem IPYNB :)
