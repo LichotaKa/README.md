@@ -1,2 +1,3 @@
 # README.md
-#repozytorium do zadania czateria
+#grupa piątek 11:30, 13.
+#repozytorium do zadan
